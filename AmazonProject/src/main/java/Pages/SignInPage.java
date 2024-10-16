@@ -14,6 +14,8 @@ public class SignInPage
   private WebElement Contiue;
   
  WebDriver driver;
+ 
+ 
 
 public SignInPage(WebDriver driver) {
 	super();
